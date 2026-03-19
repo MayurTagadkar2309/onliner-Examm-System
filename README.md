@@ -7,7 +7,7 @@
 ## 🖥️ Live Preview
 
 ![Home Page](./screenshots/home.png)
-> *(Add a screenshot of the home page here)*
+> *Home page of the Online Examination Portal — ACS College, Sonai*
 
 ---
 
